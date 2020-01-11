@@ -1,0 +1,14 @@
+{
+  "name": "side-select-px",
+  "version": "1.0.1",
+  "description": "a component react native to select a side",
+  "main": "index.js",
+  "homepage": "https://github.com/thiagosalper/side-select-px",
+  "bugs": "https://github.com/thiagosalper/side-select-px/issues",
+  "repository":{
+    "url": "https://github.com/thiagosalper/side-select-px",
+    "type": "git"
+  },
+  "author": "Thiago Pereira <thiago_salper@hotmail.com>",
+  "license": "MIT"
+}
